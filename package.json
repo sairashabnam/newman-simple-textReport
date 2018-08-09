@@ -1,0 +1,23 @@
+{
+  "name": "newman-reporter-simpletext",
+  "version": "0.0.1",
+  "description": "a simple text based reporter for newman",
+  "keywords": [
+    "postman",
+    "newman"
+  ],
+  "main": "newman-reporter-simpleText.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sairashabnam/newman-simple-textReport.git"
+  },
+  "directories": {},
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: Tests are not specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
